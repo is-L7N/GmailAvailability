@@ -12,7 +12,7 @@ This tool checks the availability of a Gmail username by simulating part of the 
 ## Usage
 
 ```bash
-python script.py
+python GmailAvailability.py
 ```
 
 Enter the email or username when prompted (e.g., `example` or `example@gmail.com`).
@@ -28,8 +28,3 @@ Enter the email or username when prompted (e.g., `example` or `example@gmail.com
 [![Author](https://img.shields.io/badge/Author-L7N-blue?style=for-the-badge&logo=github)](https://github.com/is-L7N)
 [![Telegram](https://img.shields.io/badge/Telegram-PyL7N-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/PyL7N)
 [![GitHub](https://img.shields.io/badge/GitHub-is--L7N-181717?style=for-the-badge&logo=github)](https://github.com/is-L7N)
-[![Gmail](https://img.shields.io/badge/Gmail-contact-red?style=for-the-badge&logo=gmail)](mailto:your_email@gmail.com)
-
-## Disclaimer
-
-This project is for educational and research purposes only.
